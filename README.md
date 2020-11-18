@@ -27,3 +27,7 @@ On Windows :
 ``/slaplu René will slap username René in luxembourguish
 
 same for ``/love`` command ❤️
+
+## Original script
+
+[https://github.com/hexchat/hexchat-addons/tree/master/python/slap](https://github.com/hexchat/hexchat-addons/tree/master/python/slap)
