@@ -4,7 +4,7 @@
 
 > Spice up IRC convos with __/slap__ and __/love__ actions. 
 
-Do you prefer being mischevious in 🇫🇷french🇫🇷 or 🇱🇺Luxembourgish append🇱🇺 ``fr`` or ``lu`` to the action word.
+Do you prefer being mischevious in 🇫🇷french🇫🇷 or 🇱🇺Luxembourgish🇱🇺 append ``fr`` or ``lu`` to the action word.
 
 ## How to install plugin ``slap.py``
 
