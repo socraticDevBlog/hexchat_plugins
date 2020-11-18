@@ -21,9 +21,9 @@ On Windows :
 
 ``/slap joe`` will slap username joe in english
 
-``/slapfr Amélie will slap username Amélie in french
+``/slapfr`` Amélie will slap username Amélie in french
 
-``/slaplu René will slap username René in luxembourguish
+``/slaplu`` René will slap username René in luxembourguish
 
 same for ``/love`` command ❤️
 
