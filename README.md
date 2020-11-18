@@ -19,11 +19,11 @@ On Windows :
 
 ## Instructions
 
-``/slap joe`` will slap username joe in english🐡🇺🇸🐡🇬🇧🐡🇨🇦🐡🇦🇺🐡
+``/slap joe`` will slap user _joe_ in english🐡🇺🇸🐡🇬🇧🐡🇨🇦🐡🇦🇺🐡
 
-``/slapfr`` Amélie will slap username Amélie in french 🐡🇫🇷🐡
+``/slapfr Amélie`` will slap user _Amélie_ in french 🐡🇫🇷🐡
 
-``/slaplu`` René will slap username René in luxembourguish🐡🇱🇺🐡
+``/slaplu René`` will slap user _ToxicRené_ in luxembourguish🐡🇱🇺🐡
 
 same for ``/love`` command ❤️🌎❤️
 
