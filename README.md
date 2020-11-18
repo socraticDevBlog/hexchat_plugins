@@ -1,7 +1,6 @@
-# hexchat_plugins
+![Image of HexChat Irc Client](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hexchat_Logo.svg/128px-Hexchat_Logo.svg.png?1605658653132) 
+# hexchat_plugins 
 🐒✨ fun python plugins for IRC client HexChat ✨🐒
-
-![Image of HexChat Irc Client](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hexchat_Logo.svg/64px-Hexchat_Logo.svg.png?1605658653132)
 
 > Spice up IRC convos with __/slap__ and __/love__ actions. Prefer to be mischevious in french or Luxembourgish append ``fr`` or ``lu`` after the action word.
 
