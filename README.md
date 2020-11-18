@@ -3,7 +3,7 @@
 
 ![Image of HexChat Irc Client](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hexchat_Logo.svg/64px-Hexchat_Logo.svg.png?1605658653132)
 
-> Spice up IRC convos with /slap and /love actions. Prefer to be mischevious in french or Luxembourgish append ``fr`` or ``lu`` after the action word.
+> Spice up IRC convos with __/slap__ and __/love__ actions. Prefer to be mischevious in french or Luxembourgish append ``fr`` or ``lu`` after the action word.
 
 ## How to install plugins
 
