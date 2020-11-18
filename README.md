@@ -17,6 +17,8 @@ On Windows :
 
 4- In HexChat, click ``HexChat`` menu -> ``Load plugins`` -> ``addons`` tab -> double-click on ``slap.py`` to enable your plugin
 
+![activate plugin screen capture](instruction-slap-hexchat.png)
+
 ## Instructions
 
 ``/slap joe`` will slap user _joe_ in english🐡🇺🇸🐡🇬🇧🐡🇨🇦🐡🇦🇺🐡
