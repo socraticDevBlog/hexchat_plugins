@@ -1,10 +1,10 @@
 ![Image of HexChat Irc Client](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hexchat_Logo.svg/128px-Hexchat_Logo.svg.png?1605658653132) 
-# hexchat_plugins 
+# hexchat_plugins - Slap! Love!!
 🐒✨ fun python plugins for IRC client HexChat ✨🐒
 
 > Spice up IRC convos with __/slap__ and __/love__ actions. Prefer to be mischevious in french or Luxembourgish append ``fr`` or ``lu`` after the action word.
 
-## How to install plugins
+## How to install plugin ``slap.py``
 
 On Windows : 
 (prerequisite: you must have enabled and installed Python when you installed HexChat. If not, safely re-install HexChat and, when prompted, enable Python 3.x and install Python)
