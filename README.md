@@ -27,7 +27,7 @@ On Windows :
 
 ``/slapfr Amélie`` will slap user _Amélie_ in french 🐡🇫🇷🐡
 
-``/slaplu René`` will slap user _ToxicRené_ in luxembourguish🐡🇱🇺🐡
+``/slaplu ToxicRené`` will slap user _ToxicRené_ in luxembourguish🐡🇱🇺🐡
 
 same for ``/love`` command ❤️🌎❤️
 
