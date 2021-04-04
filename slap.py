@@ -7,6 +7,8 @@ __module_version__ = '2.1'
 __module_description__ = 'Slaps specified users'
 __author__ = 'Douglas Brunal (AKA) Frankity [internationalized by socraticDev(2020)]'
 
+farts = ['runs in front of {} and let go a silence but foul smelling fart']
+
 slaps = [
     'slaps {} around a bit with a large trout',
     'gives {} a clout round the head with a fresh copy of HexChat',
@@ -48,6 +50,7 @@ slaps_lu = [
 ]
 
 sentences = {
+    'fart': farts,
     'slap': slaps,
     'slapfr': slaps_fr,
     'slaplu': slaps_lu,
@@ -71,6 +74,7 @@ def fct_cb(word, word_eol, userdata):
 def unload_cb(userdata):
     print(__module_name__, 'version', __module_version__, 'unloaded.')
 
+hexchat.hook_command('fart', fct_cb, help='FART <nick>')
 hexchat.hook_command('slap', fct_cb, help='SLAP <nick>')
 hexchat.hook_command('slapfr', fct_cb, help='SLAPFR <nick>')
 hexchat.hook_command('slaplu', fct_cb, help='SLAPLU <nick>')
