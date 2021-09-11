@@ -7,7 +7,11 @@ __module_version__ = '2.1'
 __module_description__ = 'Slaps specified users'
 __author__ = 'Douglas Brunal (AKA) Frankity [internationalized by socraticDev(2020)]'
 
-farts = ['runs in front of {} and let go a silent but foul smelling fart']
+farts = [
+    'runs in front of {} and let go a silent but foul smelling fart',
+    'pokes {} in the belly until {} farts',
+    'farts near {} and vanishes. Everyone think {} is the pig that just farted'
+]
 
 slaps = [
     'slaps {} around a bit with a large trout',
