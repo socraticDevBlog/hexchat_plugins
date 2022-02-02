@@ -9,8 +9,8 @@ __author__ = 'Douglas Brunal (AKA) Frankity [internationalized by socraticDev(20
 
 farts = [
     'runs in front of {} and let go a silent but foul smelling fart',
-    'pokes {} in the belly until {} farts',
-    'farts near {} and vanishes. Everyone think {} is the pig that just farted'
+    'pokes {} in the belly until you fart',
+    'farts near {} and vanishes. Everyone think you are the pig that just farted'
 ]
 
 slaps = [
@@ -53,13 +53,23 @@ slaps_lu = [
     'schléit {} mat enger grousser Frell'
 ]
 
+# /fight {nickname}
+fight = [
+  "check this out ᕦ(ò_óˇ)ᕤ  {}"
+]
+
+tired = [
+  "{} I'm so tired!!! ᕙ( : ˘ ∧ ˘ : )ᕗ"
+]
+
 sentences = {
     'fart': farts,
     'slap': slaps,
     'slapfr': slaps_fr,
     'slaplu': slaps_lu,
     'love': loves,
-    'lovefr': loves_fr
+    'lovefr': loves_fr,
+    'fight': fight
 }    
 
 def fct_cb(word, word_eol, userdata):
@@ -84,4 +94,7 @@ hexchat.hook_command('slapfr', fct_cb, help='SLAPFR <nick>')
 hexchat.hook_command('slaplu', fct_cb, help='SLAPLU <nick>')
 hexchat.hook_command('love', fct_cb, help='LOVE <nick>')
 hexchat.hook_command('lovefr', fct_cb, help='LOVEEFR <nick>')
+hexchat.hook_command('fight', fct_cb, help='FIGHT <nick>')
+hexchat.hook_command('tired', fct_cb, help='TIRED <nick>')
 print(__module_name__, 'version', __module_version__, 'loaded.')
+
